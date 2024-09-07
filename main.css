@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    font-size: 25px;
+    width: 100%;
+    background-color: aqua;
+    border-bottom: 10px solid #fbe30ee1;
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin: 35px;
+    height: 30px;
+    
+}
+
+form input {
+    font-size: 20px;
+    border: none;
+    
+    
+}
+
+form button {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color:rgb(65, 247, 65);
+    border: none;
+}
+
+input,
+button {
+    margin-left: 8px;
+}
+
+#cancelar {
+    background-color: rgb(247, 134, 134);
+}
+
+.concluida {
+    text-decoration: line-through;
+}
+
+ul li {
+    list-style: none;
+    
+}
+
+li {
+    padding: 10px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 300px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
