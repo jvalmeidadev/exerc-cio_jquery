@@ -18,9 +18,6 @@ $(document).ready(function() {
     })
     
     
-        
-    
-    
     
     $listaTarefas.on('click', 'li', function() {
         

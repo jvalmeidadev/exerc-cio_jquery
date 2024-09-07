@@ -65,6 +65,10 @@ li {
     margin-left: 300px;
     font-size: 30px;
 }
+form button cancelarTarefa {
+    background-color: red;
+}
+
 
 
 
