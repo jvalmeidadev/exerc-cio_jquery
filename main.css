@@ -38,6 +38,10 @@ form button {
     border: none;
 }
 
+ #cancelarTarefa {
+    background-color: red;
+}
+
 input,
 button {
     margin-left: 8px;
@@ -65,9 +69,7 @@ li {
     margin-left: 300px;
     font-size: 30px;
 }
-form button #cancelarTarefa {
-    background-color: red;
-}
+
 
 
 
